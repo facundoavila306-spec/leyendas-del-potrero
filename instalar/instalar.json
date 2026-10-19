@@ -1,26 +1,26 @@
 {
- "version": "0.9.5",
+ "version": "0.9.26",
  "electron": "33.4.11",
- "bytes": 115697822,
- "sha256": "4b3b60c8ab9be452d3653c4ba1dd78a71dfe9fd3da2bac524ef1b9e4c96bea7a",
+ "bytes": 115731027,
+ "sha256": "8407f3c84031531d447a5fdedac69f43fb3b5eabd298c401bbc1e2f0418e9ace",
  "carpeta": "Leyendas del Potrero",
  "exe": "Leyendas del Potrero.exe",
  "partes": [
   {
-   "archivo": "leyendas-del-potrero-0.9.5.zip.001",
+   "archivo": "leyendas-del-potrero-0.9.26.zip.001",
    "bytes": 47185920,
-   "sha256": "e0cc26b13df6a26fc0d068997bc6096f87bd867f9704ad7e8416f8beac5bda2d"
+   "sha256": "76d698d2cc8080573137e2363677b51f2ba9a8d8b61416e2eefaa3b322a7d0fe"
   },
   {
-   "archivo": "leyendas-del-potrero-0.9.5.zip.002",
+   "archivo": "leyendas-del-potrero-0.9.26.zip.002",
    "bytes": 47185920,
-   "sha256": "f8a3377222051e9a3b68539a05122747d9b610a299df3eed4f70d07a1569cb4f"
+   "sha256": "ea4e4b5de3c354df59f6cec688cbcac3db2db988a1be56784cb09df943f06f20"
   },
   {
-   "archivo": "leyendas-del-potrero-0.9.5.zip.003",
-   "bytes": 21325982,
-   "sha256": "354824748462fcae245f4e8b4587fc1a9cb4620d3be348a7e996aaac0d0fda12"
+   "archivo": "leyendas-del-potrero-0.9.26.zip.003",
+   "bytes": 21359187,
+   "sha256": "1572b26c705d103c6295da67fb79e717f143add6f8250990d5c632e8d69d779c"
   }
  ],
- "notas": "Paquete completo (Electron 33.4.11 + juego 0.9.5 + fichas). Se actualiza solo al arrancar."
+ "notas": ""
 }
