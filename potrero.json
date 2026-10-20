@@ -1,8 +1,8 @@
 {
- "version": "0.9.36",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.36/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.36/fichas.html",
- "sha256": "7a6dd215103a3ca359ed070e99b61f5af25ec7d804dbe6f7c00c27051353f33b",
- "bytes": 681984,
+ "version": "0.9.37",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.37/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.37/fichas.html",
+ "sha256": "61a779e4c53253daeb0bb58abce51d3e0afdba7c84f9d03dd475b215c9900eaa",
+ "bytes": 719468,
  "notas": ""
 }
