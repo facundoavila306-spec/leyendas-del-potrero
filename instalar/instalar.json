@@ -1,25 +1,25 @@
 {
- "version": "0.9.68",
+ "version": "0.9.69",
  "electron": "33.4.11",
- "bytes": 116451865,
- "sha256": "eadbb3ded2182c4215060c5ea82646da97210ad0e1b48eb0f202f088109804a2",
+ "bytes": 116452277,
+ "sha256": "7f1b4fb5c26cd2a640351435f140e98adfb9cae22f9a5d6efe34e673e6fbd371",
  "carpeta": "Leyendas del Potrero",
  "exe": "Leyendas del Potrero.exe",
  "partes": [
   {
-   "archivo": "leyendas-del-potrero-0.9.68.zip.001",
+   "archivo": "leyendas-del-potrero-0.9.69.zip.001",
    "bytes": 47185920,
-   "sha256": "f608b54cfa875f294b8399940b2fb63dd650a186b50cf4ddfaf0835485251d3b"
+   "sha256": "ca3544c1a25d477c94a3d3fb5863a75432155794a34feedaa6a24e2479e724c5"
   },
   {
-   "archivo": "leyendas-del-potrero-0.9.68.zip.002",
+   "archivo": "leyendas-del-potrero-0.9.69.zip.002",
    "bytes": 47185920,
-   "sha256": "32f6b5c0ed720e942c738cd95f972ea0e8ad47a1e62be40fecc5efe6f6b292fb"
+   "sha256": "a90ae41d2eee9d10c391230b82dc766a78470073932c4b3fe8e1a01d3558a562"
   },
   {
-   "archivo": "leyendas-del-potrero-0.9.68.zip.003",
-   "bytes": 22080025,
-   "sha256": "adcc021dcff3ffefaad18cd9f3f3cf9df381f77bbe93b86dbaffdf2520c4caf6"
+   "archivo": "leyendas-del-potrero-0.9.69.zip.003",
+   "bytes": 22080437,
+   "sha256": "24b07559e2fa7a5a0613579db16a1e6d1c812878e2a12db1bf5e6b7f8009f546"
   }
  ],
  "notas": ""
