@@ -1,8 +1,8 @@
 {
- "version": "0.9.99",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.99/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.99/fichas.html",
- "sha256": "2b1177d2fa7139771d56fa53d0dd5a8a17a4ae0024723c083ad40981a5c4edc5",
- "bytes": 5771659,
- "notas": "Gaucho: toma el mate con el brazo mas bajo."
+ "version": "0.9.100",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.100/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.100/fichas.html",
+ "sha256": "bcab0587e2abb80b91a46de91bddac22a19437522d9dfcdd27eb9fd17246ed15",
+ "bytes": 5771663,
+ "notas": "Gaucho: mate bajo y bombilla derecha."
 }
