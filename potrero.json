@@ -1,8 +1,8 @@
 {
- "version": "0.9.92",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.92/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.92/fichas.html",
- "sha256": "da3772781efba776a7b8b0ac33eca4d6130ebc8344249894f85de7fd5fcb9d88",
- "bytes": 5770722,
- "notas": "Patada del Gaucho con pierna estirada y bota al frente (ya no parece rodillazo)."
+ "version": "0.9.93",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.93/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.93/fichas.html",
+ "sha256": "d4105091440717e3e3c219a7baa8a63e29a1bb95d3fdd1dd63675b1fef67046c",
+ "bytes": 5770758,
+ "notas": "Gaucho: vuelta de la patada limpia y piñas más largas."
 }
