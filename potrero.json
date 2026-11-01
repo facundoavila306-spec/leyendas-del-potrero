@@ -1,8 +1,8 @@
 {
- "version": "0.9.95",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.95/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.95/fichas.html",
- "sha256": "b69e572c75ff0cf8a14980c220dd2149b530a84a5480eb5056521e3a80e30a52",
- "bytes": 5771573,
- "notas": "Yasí: bastón se estira al pegar. Hombre de la Bolsa: pega con el bastón."
+ "version": "0.9.96",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.96/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.96/fichas.html",
+ "sha256": "8a384ed78b821043a63a5ce7f182bd22716124d1628afbe306dd3f04a5019f8c",
+ "bytes": 5771644,
+ "notas": "Gaucho: carrera con piernas bien acomodadas."
 }
