@@ -1,8 +1,8 @@
 {
- "version": "0.9.100",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.100/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.100/fichas.html",
- "sha256": "bcab0587e2abb80b91a46de91bddac22a19437522d9dfcdd27eb9fd17246ed15",
- "bytes": 5771663,
- "notas": "Gaucho: mate bajo y bombilla derecha."
+ "version": "0.9.101",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.101/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.101/fichas.html",
+ "sha256": "1b39db636889c53f94765ffc3f79174fe66e253db16664c9483ecce3b6311df5",
+ "bytes": 5771723,
+ "notas": "Gaucho: animacion de tomar mate con bombilla en la boca."
 }
