@@ -1,8 +1,8 @@
 {
- "version": "0.9.98",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.98/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.98/fichas.html",
- "sha256": "c4fe2bce5067599279ce52a50ff605cd61ca28558c78bbd00426efda7a8be5e3",
- "bytes": 5771653,
- "notas": "Cabalgata: el Gaucho montado se ve de costado con una sola pierna visible."
+ "version": "0.9.99",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.99/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.99/fichas.html",
+ "sha256": "2b1177d2fa7139771d56fa53d0dd5a8a17a4ae0024723c083ad40981a5c4edc5",
+ "bytes": 5771659,
+ "notas": "Gaucho: toma el mate con el brazo mas bajo."
 }
