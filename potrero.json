@@ -1,8 +1,8 @@
 {
- "version": "0.9.89",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.89/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.89/fichas.html",
- "sha256": "4f75abef1285d3e25735c294dbde8cbf8f86fde81be802145aeb24a940589ea5",
- "bytes": 5769951,
- "notas": "Arreglo: La Cabalgata se trababa al usar poderes de tierra. Retador final, Cruce de espuelas, nueva selección."
+ "version": "0.9.90",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.90/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.90/fichas.html",
+ "sha256": "7d2f319f55bdab8cc780480c385a3c7edd7af1d4c33f2554f6180506bfd59c4b",
+ "bytes": 5769978,
+ "notas": "Arreglo: el poncho del Gaucho ya no se estira al agacharse."
 }
