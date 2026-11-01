@@ -1,8 +1,8 @@
 {
- "version": "0.9.91",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.91/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.91/fichas.html",
- "sha256": "2b4fe491e1d79a8ec0e090659f72357dd2cdc00c7d626a32899e7cb986072870",
- "bytes": 5769995,
- "notas": "Fatalities con joystick; patada del Gaucho."
+ "version": "0.9.92",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.92/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.92/fichas.html",
+ "sha256": "da3772781efba776a7b8b0ac33eca4d6130ebc8344249894f85de7fd5fcb9d88",
+ "bytes": 5770722,
+ "notas": "Patada del Gaucho con pierna estirada y bota al frente (ya no parece rodillazo)."
 }
