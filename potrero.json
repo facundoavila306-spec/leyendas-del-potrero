@@ -1,8 +1,8 @@
 {
- "version": "0.9.97",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.97/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.97/fichas.html",
- "sha256": "42fd4e10cb067e2a30426d9c415c777d387d44c763f4d59fc406a863c882e794",
- "bytes": 5771654,
- "notas": "Cabalgata: el Gaucho va sentado en el caballo con las piernas bien puestas."
+ "version": "0.9.98",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.98/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.98/fichas.html",
+ "sha256": "c4fe2bce5067599279ce52a50ff605cd61ca28558c78bbd00426efda7a8be5e3",
+ "bytes": 5771653,
+ "notas": "Cabalgata: el Gaucho montado se ve de costado con una sola pierna visible."
 }
