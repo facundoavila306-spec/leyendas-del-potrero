@@ -1,8 +1,8 @@
 {
- "version": "0.9.101",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.101/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.101/fichas.html",
- "sha256": "1b39db636889c53f94765ffc3f79174fe66e253db16664c9483ecce3b6311df5",
- "bytes": 5771723,
- "notas": "Gaucho: animacion de tomar mate con bombilla en la boca."
+ "version": "0.9.102",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.102/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.102/fichas.html",
+ "sha256": "e3ab01e6b5e566ae65ffee5e85397ea7f0fc49bd9c615331eed0c744a75ed405",
+ "bytes": 5795656,
+ "notas": "Cabalgata: cada parada tiene su terreno (ramas, troncos, agua con buceo, niebla, etc). Cueva de la Salamanca redibujada."
 }
