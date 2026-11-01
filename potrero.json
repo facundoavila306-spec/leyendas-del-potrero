@@ -1,8 +1,8 @@
 {
- "version": "0.9.94",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.94/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.94/fichas.html",
- "sha256": "607863c2bac0cb991f3d2789dfb0085bb0d90c3ee883c12a1832886e0bf1b83f",
- "bytes": 5770754,
- "notas": "Gaucho: pierna de la patada mas fina."
+ "version": "0.9.95",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.95/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.95/fichas.html",
+ "sha256": "b69e572c75ff0cf8a14980c220dd2149b530a84a5480eb5056521e3a80e30a52",
+ "bytes": 5771573,
+ "notas": "Yasí: bastón se estira al pegar. Hombre de la Bolsa: pega con el bastón."
 }
