@@ -1,8 +1,8 @@
 {
- "version": "0.9.88",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.88/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.88/fichas.html",
- "sha256": "b812b14790672f4eb4476706d453cd9afb5438669aca36b88ee5b37bad4f1efb",
- "bytes": 2883361,
- "notas": ""
+ "version": "0.9.89",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.89/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.89/fichas.html",
+ "sha256": "4f75abef1285d3e25735c294dbde8cbf8f86fde81be802145aeb24a940589ea5",
+ "bytes": 5769951,
+ "notas": "Arreglo: La Cabalgata se trababa al usar poderes de tierra. Retador final, Cruce de espuelas, nueva selección."
 }
