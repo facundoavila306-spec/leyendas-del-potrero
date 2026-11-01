@@ -1,8 +1,8 @@
 {
- "version": "0.9.93",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.93/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.93/fichas.html",
- "sha256": "d4105091440717e3e3c219a7baa8a63e29a1bb95d3fdd1dd63675b1fef67046c",
- "bytes": 5770758,
- "notas": "Gaucho: vuelta de la patada limpia y piñas más largas."
+ "version": "0.9.94",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.94/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.94/fichas.html",
+ "sha256": "607863c2bac0cb991f3d2789dfb0085bb0d90c3ee883c12a1832886e0bf1b83f",
+ "bytes": 5770754,
+ "notas": "Gaucho: pierna de la patada mas fina."
 }
