@@ -1,8 +1,8 @@
 {
- "version": "0.9.90",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.90/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.90/fichas.html",
- "sha256": "7d2f319f55bdab8cc780480c385a3c7edd7af1d4c33f2554f6180506bfd59c4b",
- "bytes": 5769978,
- "notas": "Arreglo: el poncho del Gaucho ya no se estira al agacharse."
+ "version": "0.9.91",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.91/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.91/fichas.html",
+ "sha256": "2b4fe491e1d79a8ec0e090659f72357dd2cdc00c7d626a32899e7cb986072870",
+ "bytes": 5769995,
+ "notas": "Fatalities con joystick; patada del Gaucho."
 }
