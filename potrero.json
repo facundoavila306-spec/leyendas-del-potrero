@@ -1,8 +1,8 @@
 {
- "version": "0.9.102",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.102/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.102/fichas.html",
- "sha256": "e3ab01e6b5e566ae65ffee5e85397ea7f0fc49bd9c615331eed0c744a75ed405",
- "bytes": 5795656,
- "notas": "Cabalgata: cada parada tiene su terreno (ramas, troncos, agua con buceo, niebla, etc). Cueva de la Salamanca redibujada."
+ "version": "0.9.103",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.103/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.103/fichas.html",
+ "sha256": "7932a3bf7e7399db451a6cef2e5b8b2662357cb4aff248334ce9d99e9f8e7c5b",
+ "bytes": 5797113,
+ "notas": "Nahuelito: lago entero con troncos, se asoma por los huecos. Llorona: sin agua, sauce y niebla."
 }
