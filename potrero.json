@@ -1,8 +1,8 @@
 {
- "version": "0.9.104",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.104/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.104/fichas.html",
- "sha256": "f7e596ae401336e4e21ee8544fe65a7e9ddc8a8d3a4d4f51507c3ed2e69469ad",
- "bytes": 5797396,
- "notas": "Nahuelito: si el Gaucho cae al agua pierde la ronda."
+ "version": "0.9.105",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.105/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.105/fichas.html",
+ "sha256": "573d9b1cf0e7f1d50b1680e5f697ba3b033f4a30508d1a8f2ee803417de55f18",
+ "bytes": 5798406,
+ "notas": "Llorona: pelea dentro de un sauce llorón; ella entra y sale de la cortina."
 }
