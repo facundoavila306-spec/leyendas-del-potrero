@@ -1,8 +1,8 @@
 {
- "version": "0.9.122",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.122/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.122/fichas.html",
- "sha256": "148de9bbf2ed326dbdb92607dcc7779eb13fd7e35d5ba8aecd65ff543575e200",
- "bytes": 5833391,
- "notas": "Mulánima: la carreta ya no pega. Lobizón: maleza alta donde solo él desaparece. Basilisco: granero con cobertizo."
+ "version": "0.9.123",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.123/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.123/fichas.html",
+ "sha256": "40f4ae65780f6be7988682e68b45166501053643969364c54223534a86ae7a57",
+ "bytes": 5833593,
+ "notas": "Lobizón: maleza en todo el mapa. Basilisco: cajas altas, el cobertizo no se alcanza desde el piso."
 }
