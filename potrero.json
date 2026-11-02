@@ -1,8 +1,8 @@
 {
- "version": "0.9.111",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.111/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.111/fichas.html",
- "sha256": "a482f031aaa5e4d5d9afaac41ae21d5ab74a4e01b45fd9cca1bcb4873a8cab91",
- "bytes": 5800055,
- "notas": "Nahuelito: 5 troncos con huecos que se pueden saltar."
+ "version": "0.9.112",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.112/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.112/fichas.html",
+ "sha256": "53be3a788d3c0764a4d3ac93dfa71199b57e657763de1c01e2ae04eaa25baff5",
+ "bytes": 5813847,
+ "notas": "Menú JUGAR: 3 fogones de guardado y modos en fila con tranquera los bloqueados."
 }
