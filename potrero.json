@@ -1,8 +1,8 @@
 {
- "version": "0.9.123",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.123/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.123/fichas.html",
- "sha256": "40f4ae65780f6be7988682e68b45166501053643969364c54223534a86ae7a57",
- "bytes": 5833593,
- "notas": "Lobizón: maleza en todo el mapa. Basilisco: cajas altas, el cobertizo no se alcanza desde el piso."
+ "version": "0.9.124",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.124/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.124/fichas.html",
+ "sha256": "2fde6c2629a171bb810776862e41af521821cf2d07917eeb30e434e03108fd61",
+ "bytes": 5836260,
+ "notas": "Yasí Yateré: árbol con panal, abejas y miel."
 }
