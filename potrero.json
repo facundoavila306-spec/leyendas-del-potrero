@@ -1,8 +1,8 @@
 {
- "version": "0.9.107",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.107/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.107/fichas.html",
- "sha256": "4defa140100ef03febfb1b6dcd23499eab6dcbe3eb4aceaa05e1167ccd5dd645",
- "bytes": 5799734,
- "notas": "Llorona: sauce llorón por todos lados, con el tronco al centro."
+ "version": "0.9.108",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.108/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.108/fichas.html",
+ "sha256": "765ad1f5b45fda003c86a994a3860ef8e2046e4b0a1ed0f36c3fc5c6f4d71972",
+ "bytes": 5799667,
+ "notas": "Llorona: se esconde detrás del tronco del sauce y sale por otro lado."
 }
