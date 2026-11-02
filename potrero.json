@@ -1,8 +1,8 @@
 {
- "version": "0.9.113",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.113/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.113/fichas.html",
- "sha256": "ff2db2863d7f34779b96990ec3ec8dcb84cca076808f599f4870691ff219da4b",
- "bytes": 5814235,
- "notas": "Arreglo: se puede saltar desde plataformas. Nahuelito: caer al agua solo resta vida y los golpes pegan menos."
+ "version": "0.9.114",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.114/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.114/fichas.html",
+ "sha256": "d32e02276d562d2bbc4e82ee66da91f1bb05eeedda8468a27c1145b9e12e1e1f",
+ "bytes": 5814321,
+ "notas": "Nahuelito: mirás para donde quieras mientras está bajo el agua; caer al agua resta vida y te quedás nadando hasta saltar a un tronco."
 }
