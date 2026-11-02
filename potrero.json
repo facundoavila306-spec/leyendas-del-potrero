@@ -1,8 +1,8 @@
 {
- "version": "0.9.121",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.121/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.121/fichas.html",
- "sha256": "ad2e6d17a807a4b50a4b1415de2b52d177d930ab10a046a70f584debef258585",
- "bytes": 5832303,
- "notas": "Mulánima: la carreta pega al que está abajo."
+ "version": "0.9.122",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.122/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.122/fichas.html",
+ "sha256": "148de9bbf2ed326dbdb92607dcc7779eb13fd7e35d5ba8aecd65ff543575e200",
+ "bytes": 5833391,
+ "notas": "Mulánima: la carreta ya no pega. Lobizón: maleza alta donde solo él desaparece. Basilisco: granero con cobertizo."
 }
