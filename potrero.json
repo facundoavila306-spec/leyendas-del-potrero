@@ -1,8 +1,8 @@
 {
- "version": "0.9.118",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.118/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.118/fichas.html",
- "sha256": "0e28f87e92d1fe06eacd5d35400533600ddd95f68110c260aa08402371fccbd7",
- "bytes": 5831880,
- "notas": "2 contra 2 (se abre al ganar un Pial), Q mira para atrás, Tab cambia de leyenda."
+ "version": "0.9.119",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.119/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.119/fichas.html",
+ "sha256": "67f5e829c216dcfd8f2cfaaf38491730169caa38d9cf22ca14329eeece92be8f",
+ "bytes": 5832008,
+ "notas": "Versus: texto legible en el botón seleccionado."
 }
