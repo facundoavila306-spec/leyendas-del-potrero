@@ -1,8 +1,8 @@
 {
- "version": "0.9.109",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.109/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.109/fichas.html",
- "sha256": "0d67f1556569c4790b7f83f5b218daee4ecf7454f1985d2c9cdc93905d2c22cc",
- "bytes": 5799783,
- "notas": "Nahuelito: arrancás sobre un tronco y los saltos entre troncos son más difíciles."
+ "version": "0.9.110",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.110/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.110/fichas.html",
+ "sha256": "790ed34990b10d0b4d7b144375d06152a6da00d76ce8fb6b9d7a940b60b96e9a",
+ "bytes": 5800044,
+ "notas": "Truco gausi: pasa a la siguiente pelea de la Cabalgata."
 }
