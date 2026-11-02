@@ -1,8 +1,8 @@
 {
- "version": "0.9.110",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.110/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.110/fichas.html",
- "sha256": "790ed34990b10d0b4d7b144375d06152a6da00d76ce8fb6b9d7a940b60b96e9a",
- "bytes": 5800044,
- "notas": "Truco gausi: pasa a la siguiente pelea de la Cabalgata."
+ "version": "0.9.111",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.111/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.111/fichas.html",
+ "sha256": "a482f031aaa5e4d5d9afaac41ae21d5ab74a4e01b45fd9cca1bcb4873a8cab91",
+ "bytes": 5800055,
+ "notas": "Nahuelito: 5 troncos con huecos que se pueden saltar."
 }
