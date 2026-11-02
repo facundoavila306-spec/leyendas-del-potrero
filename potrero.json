@@ -1,8 +1,8 @@
 {
- "version": "0.9.116",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.116/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.116/fichas.html",
- "sha256": "0920ab2e01a867ca9023bfee925b3468cc6fa3c286ddd4c28bdb4c57fc4685bc",
- "bytes": 5822098,
- "notas": "JUGAR: escenas ilustradas en cada modo."
+ "version": "0.9.117",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.117/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.117/fichas.html",
+ "sha256": "e249bdbfeb078f9da28a93bf7ac5b772b5001e557c43c7de159e7258c5526353",
+ "bytes": 5828273,
+ "notas": "El Pial: cuadro de campeonato a dos lados con copa, y la máquina también pelea con dos guerreros."
 }
