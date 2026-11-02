@@ -1,8 +1,8 @@
 {
- "version": "0.9.108",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.108/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.108/fichas.html",
- "sha256": "765ad1f5b45fda003c86a994a3860ef8e2046e4b0a1ed0f36c3fc5c6f4d71972",
- "bytes": 5799667,
- "notas": "Llorona: se esconde detrás del tronco del sauce y sale por otro lado."
+ "version": "0.9.109",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.109/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.109/fichas.html",
+ "sha256": "0d67f1556569c4790b7f83f5b218daee4ecf7454f1985d2c9cdc93905d2c22cc",
+ "bytes": 5799783,
+ "notas": "Nahuelito: arrancás sobre un tronco y los saltos entre troncos son más difíciles."
 }
