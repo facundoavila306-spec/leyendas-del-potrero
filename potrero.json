@@ -1,8 +1,8 @@
 {
- "version": "0.9.105",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.105/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.105/fichas.html",
- "sha256": "573d9b1cf0e7f1d50b1680e5f697ba3b033f4a30508d1a8f2ee803417de55f18",
- "bytes": 5798406,
- "notas": "Llorona: pelea dentro de un sauce llorón; ella entra y sale de la cortina."
+ "version": "0.9.106",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.106/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.106/fichas.html",
+ "sha256": "7e77b46f5ffab735a43d569ee0b602131322d6a963cd01fe28e6a050ad5d5d52",
+ "bytes": 5799284,
+ "notas": "Llorona: todo el escenario es el interior de un sauce llorón."
 }
