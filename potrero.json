@@ -1,8 +1,8 @@
 {
- "version": "0.9.103",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.103/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.103/fichas.html",
- "sha256": "7932a3bf7e7399db451a6cef2e5b8b2662357cb4aff248334ce9d99e9f8e7c5b",
- "bytes": 5797113,
- "notas": "Nahuelito: lago entero con troncos, se asoma por los huecos. Llorona: sin agua, sauce y niebla."
+ "version": "0.9.104",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.104/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.104/fichas.html",
+ "sha256": "f7e596ae401336e4e21ee8544fe65a7e9ddc8a8d3a4d4f51507c3ed2e69469ad",
+ "bytes": 5797396,
+ "notas": "Nahuelito: si el Gaucho cae al agua pierde la ronda."
 }
