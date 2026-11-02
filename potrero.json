@@ -1,8 +1,8 @@
 {
- "version": "0.9.114",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.114/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.114/fichas.html",
- "sha256": "d32e02276d562d2bbc4e82ee66da91f1bb05eeedda8468a27c1145b9e12e1e1f",
- "bytes": 5814321,
- "notas": "Nahuelito: mirás para donde quieras mientras está bajo el agua; caer al agua resta vida y te quedás nadando hasta saltar a un tronco."
+ "version": "0.9.115",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.115/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.115/fichas.html",
+ "sha256": "1500b3902c384091bd0cce17ff9e5e8e9f4799602821f641f4ccd022da8408d0",
+ "bytes": 5818028,
+ "notas": "Modos de JUGAR con iconos propios; Entrenamiento y Prueba vuelven al menú normal."
 }
