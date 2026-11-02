@@ -1,8 +1,8 @@
 {
- "version": "0.9.106",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.106/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.106/fichas.html",
- "sha256": "7e77b46f5ffab735a43d569ee0b602131322d6a963cd01fe28e6a050ad5d5d52",
- "bytes": 5799284,
- "notas": "Llorona: todo el escenario es el interior de un sauce llorón."
+ "version": "0.9.107",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.107/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.107/fichas.html",
+ "sha256": "4defa140100ef03febfb1b6dcd23499eab6dcbe3eb4aceaa05e1167ccd5dd645",
+ "bytes": 5799734,
+ "notas": "Llorona: sauce llorón por todos lados, con el tronco al centro."
 }
