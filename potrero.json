@@ -1,8 +1,8 @@
 {
- "version": "0.9.115",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.115/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.115/fichas.html",
- "sha256": "1500b3902c384091bd0cce17ff9e5e8e9f4799602821f641f4ccd022da8408d0",
- "bytes": 5818028,
- "notas": "Modos de JUGAR con iconos propios; Entrenamiento y Prueba vuelven al menú normal."
+ "version": "0.9.116",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.116/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.116/fichas.html",
+ "sha256": "0920ab2e01a867ca9023bfee925b3468cc6fa3c286ddd4c28bdb4c57fc4685bc",
+ "bytes": 5822098,
+ "notas": "JUGAR: escenas ilustradas en cada modo."
 }
