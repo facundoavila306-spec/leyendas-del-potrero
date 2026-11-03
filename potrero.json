@@ -1,8 +1,8 @@
 {
- "version": "0.9.129",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.129/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.129/fichas.html",
- "sha256": "c6da4571f856799445bdc2356604dc5d27f1a6d4e6fa4a0c1a82eeff303bc5bc",
- "bytes": 5843706,
- "notas": "La patada termina apoyando el pie adelante, sin quedar colgado en una pierna."
+ "version": "0.9.130",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.130/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.130/fichas.html",
+ "sha256": "087be8f297ec998f4b82639d3d1f5028b8bde556137cf941bae45688101a9d16",
+ "bytes": 5839451,
+ "notas": "Vuelta atrás: se quitan la fluidez de cuerpo, las poses nuevas y la patada nueva (0.9.125 a 0.9.129). Queda el menú, el 2 contra 2 y los mapas."
 }
