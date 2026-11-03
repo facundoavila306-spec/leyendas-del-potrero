@@ -1,8 +1,8 @@
 {
- "version": "0.9.126",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.126/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.126/fichas.html",
- "sha256": "140eedc23c48783a2782b9414d4aa98cf7897a090aa40c519fc53a89c0530587",
- "bytes": 5843433,
- "notas": "Cuerpo de pelea real: guardia, pasos, piñas y patadas, brazos de proporción humana."
+ "version": "0.9.127",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.127/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.127/fichas.html",
+ "sha256": "97c9aa907e80bb754b2f49c65b69c6ac0e9538d62a588782b5368b5aca6fc4a3",
+ "bytes": 5843712,
+ "notas": "Patada de verdad: la tecla G patea siempre, en el suelo y en el aire, con pose humana."
 }
