@@ -1,8 +1,8 @@
 {
- "version": "0.9.130",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.130/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.130/fichas.html",
- "sha256": "087be8f297ec998f4b82639d3d1f5028b8bde556137cf941bae45688101a9d16",
- "bytes": 5839451,
- "notas": "Vuelta atrás: se quitan la fluidez de cuerpo, las poses nuevas y la patada nueva (0.9.125 a 0.9.129). Queda el menú, el 2 contra 2 y los mapas."
+ "version": "0.9.131",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.131/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.131/fichas.html",
+ "sha256": "b5f411c0a06361b224fafd2c7369e9df44335e3fceff4be47dab7d9aede1f6a3",
+ "bytes": 5839614,
+ "notas": "Agacharse de verdad: todos bajan el cuerpo entero y la ropa acompaña (arreglada la tela que quedaba colgada en el aire)."
 }
