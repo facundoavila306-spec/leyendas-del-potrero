@@ -1,8 +1,8 @@
 {
- "version": "0.9.128",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.128/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.128/fichas.html",
- "sha256": "1c1a4a0f4d82896a4ffb76cbd26762aaf458c191cac3fc279a2af6669d03d3f8",
- "bytes": 5843712,
- "notas": "Patada derecha a la altura de la cadera, en suelo y aire."
+ "version": "0.9.129",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.129/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.129/fichas.html",
+ "sha256": "c6da4571f856799445bdc2356604dc5d27f1a6d4e6fa4a0c1a82eeff303bc5bc",
+ "bytes": 5843706,
+ "notas": "La patada termina apoyando el pie adelante, sin quedar colgado en una pierna."
 }
