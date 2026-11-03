@@ -1,8 +1,8 @@
 {
- "version": "0.9.131",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.131/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.131/fichas.html",
- "sha256": "b5f411c0a06361b224fafd2c7369e9df44335e3fceff4be47dab7d9aede1f6a3",
- "bytes": 5839614,
- "notas": "Agacharse de verdad: todos bajan el cuerpo entero y la ropa acompaña (arreglada la tela que quedaba colgada en el aire)."
+ "version": "0.9.132",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.132/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.132/fichas.html",
+ "sha256": "09bd604f3fee3a50dce8bc6104230f1d7615306243fb7ff55beacbb934302e59",
+ "bytes": 5839624,
+ "notas": "Mandinga: las piernas vuelven a ser normales en golpes y saltos; la rodilla doblada queda solo al agacharse."
 }
