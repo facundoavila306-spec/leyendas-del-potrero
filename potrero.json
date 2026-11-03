@@ -1,8 +1,8 @@
 {
- "version": "0.9.127",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.127/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.127/fichas.html",
- "sha256": "97c9aa907e80bb754b2f49c65b69c6ac0e9538d62a588782b5368b5aca6fc4a3",
+ "version": "0.9.128",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.128/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.128/fichas.html",
+ "sha256": "1c1a4a0f4d82896a4ffb76cbd26762aaf458c191cac3fc279a2af6669d03d3f8",
  "bytes": 5843712,
- "notas": "Patada de verdad: la tecla G patea siempre, en el suelo y en el aire, con pose humana."
+ "notas": "Patada derecha a la altura de la cadera, en suelo y aire."
 }
