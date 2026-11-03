@@ -1,8 +1,8 @@
 {
- "version": "0.9.125",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.125/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.125/fichas.html",
- "sha256": "8ac6fef19cbf481dc1b4ad11d112a678ac320cba2fcac7bc4cca12ee73970f0c",
- "bytes": 5841987,
- "notas": "Menú principal de madera, movimiento de cuerpo (fluidez) y piñas/patadas más largas."
+ "version": "0.9.126",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.126/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.126/fichas.html",
+ "sha256": "140eedc23c48783a2782b9414d4aa98cf7897a090aa40c519fc53a89c0530587",
+ "bytes": 5843433,
+ "notas": "Cuerpo de pelea real: guardia, pasos, piñas y patadas, brazos de proporción humana."
 }
