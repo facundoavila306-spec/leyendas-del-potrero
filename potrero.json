@@ -1,8 +1,8 @@
 {
- "version": "0.9.124",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.124/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.124/fichas.html",
- "sha256": "2fde6c2629a171bb810776862e41af521821cf2d07917eeb30e434e03108fd61",
- "bytes": 5836260,
- "notas": "Yasí Yateré: árbol con panal, abejas y miel."
+ "version": "0.9.125",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.125/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.125/fichas.html",
+ "sha256": "8ac6fef19cbf481dc1b4ad11d112a678ac320cba2fcac7bc4cca12ee73970f0c",
+ "bytes": 5841987,
+ "notas": "Menú principal de madera, movimiento de cuerpo (fluidez) y piñas/patadas más largas."
 }
