@@ -1,8 +1,8 @@
 {
- "version": "0.9.132",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.132/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.132/fichas.html",
- "sha256": "09bd604f3fee3a50dce8bc6104230f1d7615306243fb7ff55beacbb934302e59",
- "bytes": 5839624,
- "notas": "Mandinga: las piernas vuelven a ser normales en golpes y saltos; la rodilla doblada queda solo al agacharse."
+ "version": "0.9.136",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.136/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.136/fichas.html",
+ "sha256": "06b49bf076be07f591c9e62709d3387a03f524953b9767175d2258692805d855",
+ "bytes": 5898517,
+ "notas": "Cuerpos articulados: ahora los 18 personajes se doblan por la cadera, caen y se agachan con más naturalidad, sin costuras."
 }
