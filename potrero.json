@@ -1,8 +1,8 @@
 {
- "version": "0.9.136",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.136/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.136/fichas.html",
- "sha256": "06b49bf076be07f591c9e62709d3387a03f524953b9767175d2258692805d855",
- "bytes": 5898517,
- "notas": "Cuerpos articulados: ahora los 18 personajes se doblan por la cadera, caen y se agachan con más naturalidad, sin costuras."
+ "version": "0.9.137",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.137/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.137/fichas.html",
+ "sha256": "b501443a706845af0e585326bb308f3c70ee2815ac1bbd20b822ada7de416286",
+ "bytes": 5900299,
+ "notas": "Nuevo botón OPCIONES en el menú principal (música, sonidos, efectos, dificultad, pantalla completa). Se quitó la medición automática de rendimiento y el diagnóstico F3."
 }
