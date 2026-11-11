@@ -1,8 +1,8 @@
 {
- "version": "0.9.138",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.138/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.138/fichas.html",
- "sha256": "d8da32075213820b698d9c4568e044e883bb3e5f3ce27c3f0bd0568a01ffb928",
- "bytes": 5902361,
- "notas": "Aviso dentro del juego cuando hay versión nueva y botón Buscar actualizaciones en Opciones. Incluye el botón OPCIONES del menú."
+ "version": "0.9.139",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.139/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.139/fichas.html",
+ "sha256": "bcc154e0b6e5d82c3e8aab4f169bcaaf6f3811a5f975362f48a76fea4f3bdc5b",
+ "bytes": 5847384,
+ "notas": "Vuelven los cuerpos de antes (sin articulación). Se mantiene el menú Opciones y el aviso de actualizaciones."
 }
