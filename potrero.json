@@ -1,8 +1,8 @@
 {
- "version": "0.9.140",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.140/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.140/fichas.html",
- "sha256": "61da1afb8243e960cff24deaf8e199ccc4e186539e01688a04c30b7e5232bdce",
- "bytes": 5847416,
- "notas": "Arreglo: al derrotar a la Mulánima la pelea ahora termina (antes se curaba al morir y no se cerraba hasta acabar el tiempo)."
+ "version": "0.9.141",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.141/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.141/fichas.html",
+ "sha256": "1646fd0d190e09820a9edf46cebf9d8bdb0d0c67e8bc45fd8c726278eeafe9ec",
+ "bytes": 5847983,
+ "notas": "Nueva opción Calidad (Alta/Media/Baja) en OPCIONES para que ande más fluido en compus lentas; por defecto Media. Pial, Ruta, Supremacía y Cabalgata revisados jugando sin errores."
 }
