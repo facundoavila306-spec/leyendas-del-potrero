@@ -1,8 +1,8 @@
 {
- "version": "0.9.141",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.141/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.141/fichas.html",
- "sha256": "1646fd0d190e09820a9edf46cebf9d8bdb0d0c67e8bc45fd8c726278eeafe9ec",
- "bytes": 5847983,
- "notas": "Nueva opción Calidad (Alta/Media/Baja) en OPCIONES para que ande más fluido en compus lentas; por defecto Media. Pial, Ruta, Supremacía y Cabalgata revisados jugando sin errores."
+ "version": "0.9.142",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.142/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.142/fichas.html",
+ "sha256": "f9f1f47a78ac98f0f48a306e052601e7cac0838ab5205e0b57d86b0b84d06849",
+ "bytes": 5848552,
+ "notas": "Menos trabas en pelea: los sprites se precargan al empezar el combate, se evitan lecturas lentas de la GPU y se limita lo que se arma durante la pelea. Opción Calidad en OPCIONES."
 }
