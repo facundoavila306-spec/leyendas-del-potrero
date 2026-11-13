@@ -1,8 +1,8 @@
 {
- "version": "0.9.142",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.142/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.142/fichas.html",
- "sha256": "f9f1f47a78ac98f0f48a306e052601e7cac0838ab5205e0b57d86b0b84d06849",
- "bytes": 5848552,
- "notas": "Menos trabas en pelea: los sprites se precargan al empezar el combate, se evitan lecturas lentas de la GPU y se limita lo que se arma durante la pelea. Opción Calidad en OPCIONES."
+ "version": "0.9.143",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.143/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.143/fichas.html",
+ "sha256": "b2f2897687d24378470ef2bdf52ebb3c80b9342cc726a9d92117277558460677",
+ "bytes": 5849327,
+ "notas": "Arreglo: el menú de inicio se achica en ventanas bajas y ya no se corta el cartel de Combates/Victorias."
 }
