@@ -1,8 +1,8 @@
 {
- "version": "0.9.144",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.144/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.144/fichas.html",
- "sha256": "cfb8f85750483bb1cd95318df516db69498922944276a8ad01d2f8bf3efe9e7b",
- "bytes": 5853381,
- "notas": "Supremacía entra directo (sin ranuras); dificultad y 'Empezar de nuevo' dentro del mapa. Botón CONTINUAR en JUGAR para la pelea guardada. La Cabalgata ahora se guarda por pelea. Al salir: Guardar y salir / Salir sin guardar."
+ "version": "0.9.145",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.145/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.145/fichas.html",
+ "sha256": "341d3a254a6743221d87c43b43b13fe8dca9644fd40816b4eb1ba6555a81dcb2",
+ "bytes": 5854004,
+ "notas": "Te quedás donde estás: al entrar a la Ruta, el Pial, la Pelea rápida, el Versus o la Cabalgata con una partida a medias te pregunta si continuás o empezás de nuevo. Sin botones de guardar. La Ruta recuerda el combate en que ibas."
 }
