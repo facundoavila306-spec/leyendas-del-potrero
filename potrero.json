@@ -1,8 +1,8 @@
 {
- "version": "0.9.143",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.143/index.html",
- "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.143/fichas.html",
- "sha256": "b2f2897687d24378470ef2bdf52ebb3c80b9342cc726a9d92117277558460677",
- "bytes": 5849327,
- "notas": "Arreglo: el menú de inicio se achica en ventanas bajas y ya no se corta el cartel de Combates/Victorias."
+ "version": "0.9.144",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.144/index.html",
+ "fichas": "https://raw.githubusercontent.com/facundoavila306-spec/leyendas-del-potrero/main/juego/0.9.144/fichas.html",
+ "sha256": "cfb8f85750483bb1cd95318df516db69498922944276a8ad01d2f8bf3efe9e7b",
+ "bytes": 5853381,
+ "notas": "Supremacía entra directo (sin ranuras); dificultad y 'Empezar de nuevo' dentro del mapa. Botón CONTINUAR en JUGAR para la pelea guardada. La Cabalgata ahora se guarda por pelea. Al salir: Guardar y salir / Salir sin guardar."
 }
